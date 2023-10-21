@@ -1,6 +1,7 @@
 * https://www.bbc.co.uk/weather/2650225
 * https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain
 * https://calendar.google.com
+* httsp://www.gmail.com
 * https://www.myvue.com/cinema/edinburgh-ocean-terminal/whats-on
 * https://www.tomorrowspapers.co.uk
 * https://www.nytimes.com
