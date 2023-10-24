@@ -15,4 +15,5 @@
 * https://news.ycombinator.com/
 * https://longreads.com/
 * https://medium.com/
+* https://www.quora.com/
 * https://www.feedly.com
